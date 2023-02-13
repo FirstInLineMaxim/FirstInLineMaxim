@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 🔭 Here is my
-<a style="display:flex;align-items:baseline;background-color:white" href="https://maximmoltchanov.netlify.app" rel="nofollow"><img src="https://camo.githubusercontent.com/a4f6cac3695dcca1a03210fbde4c9ccedb0a2413b1a80d98456d912d325aa85c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d66697265666f78266c6f676f436f6c6f723d23464637313339" data-canonical-src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&amp;logo=firefox&amp;logoColor=#FF7139" style="max-width: 100%;"></a>
+<a href="https://maximmoltchanov.netlify.app" rel="nofollow"><img src="https://camo.githubusercontent.com/a4f6cac3695dcca1a03210fbde4c9ccedb0a2413b1a80d98456d912d325aa85c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d66697265666f78266c6f676f436f6c6f723d23464637313339" data-canonical-src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&amp;logo=firefox&amp;logoColor=#FF7139" style="max-width: 100%;"></a>
 <br>
 👯 I’m looking to collaborate on any project that allows me to improve my skills<br> 
 🌱 Finished the WBS Bootcamp 2023<br> 
